@@ -1,0 +1,17 @@
+# ignore compiled binaries
+/build/
+*.o
+*.out
+*.exe
+
+# ignore logs and temp files
+*.log
+*.tmp
+
+# ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# ignore macOS system files
+.DS_Store
